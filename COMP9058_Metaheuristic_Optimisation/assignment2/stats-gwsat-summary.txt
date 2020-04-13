@@ -1,0 +1,55 @@
+Total : 217483 탎ec
+Mean  : 7249 탎ec
+Success rate: 100.00%
+
+Total iter: 1123
+Avg iter time: 194 탎ec
+
+Restarts:
+  Sum   : 0
+  Min   : 0
+  Max   : 0
+  Mean  : 0
+  Median: 0.0
+  STDEV : 0.0
+
+Total iterations:
+  Sum   : 1123
+  Min   : 6
+  Max   : 109
+  Mean  : 37.4
+  Median: 27.0
+  STDEV : 31.1
+  VarCo : 0.83
+  Q0.1  : 8
+  Q0.25 : 15
+  Q0.5  : 27
+  Q0.75 : 45
+  Q0.9  : 92
+
+Iterations to solve:
+  Min   : 6
+  Max   : 109
+  Mean  : 37.4
+  Median: 27.0
+  STDEV : 31.1
+  VarCo : 0.83
+  Q0.1  : 8
+  Q0.25 : 15
+  Q0.5  : 27
+  Q0.75 : 45
+  Q0.9  : 92
+
+Runtime in 탎ec:
+  Sum   : 217483
+  Min   : 1427
+  Max   : 22179
+  Mean  : 7249.4
+  Median: 5100.5
+  STDEV : 5955.5
+  VarCo : 0.822
+  Q0.1  : 1894
+  Q0.25 : 2850
+  Q0.5  : 5100
+  Q0.75 : 9896
+  Q0.9  : 17857

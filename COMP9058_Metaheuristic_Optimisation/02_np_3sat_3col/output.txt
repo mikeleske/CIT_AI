@@ -1,0 +1,36 @@
++-------+-------+-------+-------+-------+--------+--------+--------+--------+--------+-------+------+------+------+------+------+------+-------+
+|   p   |   q   |   x   |   y   |   z   | not(p) | not(q) | not(x) | not(y) | not(z) |   z1  |  z2  |  z3  |  z4  |  z5  |  z6  |  z7  |   z   |
++-------+-------+-------+-------+-------+--------+--------+--------+--------+--------+-------+------+------+------+------+------+------+-------+
+| False | False | False | False | False |  True  |  True  |  True  |  True  |  True  | False | True | True | True | True | True | True | False |
+| False | False | False | False |  True |  True  |  True  |  True  |  True  | False  | False | True | True | True | True | True | True | False |
+| False | False | False |  True | False |  True  |  True  |  True  | False  |  True  | False | True | True | True | True | True | True | False |
+| False | False | False |  True |  True |  True  |  True  |  True  | False  | False  | False | True | True | True | True | True | True | False |
+| False | False |  True | False | False |  True  |  True  | False  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+| False | False |  True | False |  True |  True  |  True  | False  |  True  | False  |  True | True | True | True | True | True | True |  True |
+| False | False |  True |  True | False |  True  |  True  | False  | False  |  True  |  True | True | True | True | True | True | True |  True |
+| False | False |  True |  True |  True |  True  |  True  | False  | False  | False  |  True | True | True | True | True | True | True |  True |
+| False |  True | False | False | False |  True  | False  |  True  |  True  |  True  | False | True | True | True | True | True | True | False |
+| False |  True | False | False |  True |  True  | False  |  True  |  True  | False  | False | True | True | True | True | True | True | False |
+| False |  True | False |  True | False |  True  | False  |  True  | False  |  True  | False | True | True | True | True | True | True | False |
+| False |  True | False |  True |  True |  True  | False  |  True  | False  | False  | False | True | True | True | True | True | True | False |
+| False |  True |  True | False | False |  True  | False  | False  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+| False |  True |  True | False |  True |  True  | False  | False  |  True  | False  |  True | True | True | True | True | True | True |  True |
+| False |  True |  True |  True | False |  True  | False  | False  | False  |  True  |  True | True | True | True | True | True | True |  True |
+| False |  True |  True |  True |  True |  True  | False  | False  | False  | False  |  True | True | True | True | True | True | True |  True |
+|  True | False | False | False | False | False  |  True  |  True  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+|  True | False | False | False |  True | False  |  True  |  True  |  True  | False  |  True | True | True | True | True | True | True |  True |
+|  True | False | False |  True | False | False  |  True  |  True  | False  |  True  |  True | True | True | True | True | True | True |  True |
+|  True | False | False |  True |  True | False  |  True  |  True  | False  | False  |  True | True | True | True | True | True | True |  True |
+|  True | False |  True | False | False | False  |  True  | False  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+|  True | False |  True | False |  True | False  |  True  | False  |  True  | False  |  True | True | True | True | True | True | True |  True |
+|  True | False |  True |  True | False | False  |  True  | False  | False  |  True  |  True | True | True | True | True | True | True |  True |
+|  True | False |  True |  True |  True | False  |  True  | False  | False  | False  |  True | True | True | True | True | True | True |  True |
+|  True |  True | False | False | False | False  | False  |  True  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+|  True |  True | False | False |  True | False  | False  |  True  |  True  | False  |  True | True | True | True | True | True | True |  True |
+|  True |  True | False |  True | False | False  | False  |  True  | False  |  True  |  True | True | True | True | True | True | True |  True |
+|  True |  True | False |  True |  True | False  | False  |  True  | False  | False  |  True | True | True | True | True | True | True |  True |
+|  True |  True |  True | False | False | False  | False  | False  |  True  |  True  |  True | True | True | True | True | True | True |  True |
+|  True |  True |  True | False |  True | False  | False  | False  |  True  | False  |  True | True | True | True | True | True | True |  True |
+|  True |  True |  True |  True | False | False  | False  | False  | False  |  True  |  True | True | True | True | True | True | True |  True |
+|  True |  True |  True |  True |  True | False  | False  | False  | False  | False  |  True | True | True | True | True | True | True |  True |
++-------+-------+-------+-------+-------+--------+--------+--------+--------+--------+-------+------+------+------+------+------+------+-------+
