@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+    <node pkg="assignment1" name="spawn_turtle2_client" type="SpawnTurtle2Client.py" output="screen"/>
+    <node pkg="assignment1" name="spawn_objects_server" type="SpawnObjectsServer.py" output="screen"/>
+    <node pkg="assignment1" name="next_objects_server" type="NextObjectServer.py" output="screen"/>
+    <node pkg="assignment1" name="spawn_objects_client" type="SpawnObjectsClient.py" output="screen"/>
+    <node pkg="assignment1" name="turtle1_collection_action_server" type="CollectionActionServer.py" output="screen"/>
+    <node pkg="assignment1" name="turtle1_client" type="Turtle1Client.py" output="screen"/>
+    <node pkg="assignment1" name="turtle2_client" type="Turtle2Client.py" output="screen"/>
+    <node pkg="assignment1" name="conveyor_belt" type="ConveyorBelt.py" output="screen"/>
+</launch>
