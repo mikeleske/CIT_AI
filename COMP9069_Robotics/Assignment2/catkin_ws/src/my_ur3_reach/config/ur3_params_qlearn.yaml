@@ -1,0 +1,12 @@
+ur3_v0: #namespace
+    task_and_robot_environment_name: 'UR3-v0'
+    ros_ws_abspath: "/home/mikel/catkin_ws"
+
+    alpha: 0.5
+    gamma: 0.9
+    epsilon: 0.25
+    epsilon_discount: 0.999
+    nepisodes: 1000
+    nsteps: 40
+
+    state_dicretization: 3

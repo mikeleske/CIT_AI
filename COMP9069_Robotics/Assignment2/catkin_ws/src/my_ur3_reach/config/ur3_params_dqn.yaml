@@ -1,0 +1,6 @@
+ur3_v0: #namespace
+    task_and_robot_environment_name: 'UR3-v0'
+    ros_ws_abspath: "/home/mikel/catkin_ws"
+
+    state_dicretization: 1
+
